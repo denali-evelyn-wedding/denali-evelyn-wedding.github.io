@@ -1,7 +1,6 @@
 body {
     font-family: sans-serif;
-    background-color: #a48db7;
-    font-weight: bold;
+    background-color: #d2c0e0;
 }
 
 .gridbox {
@@ -15,13 +14,14 @@ body {
 .heading {
     font-size: 30px;
     margin: 20px;
-    color: #fcd305;
+    color: #551a8b;
+    font-weight: bold;
 }
 
 .info {
     font-size: 20px;
     margin: 10px;
-    color: #551a8b;
+    color: #000000;
 }
 
 .sidebar {
@@ -29,6 +29,7 @@ body {
     top: 0;
     left: 0;
     margin: 20px;
+    font-weight: bold;
 }
 
 .sidebar a:link {
@@ -43,4 +44,32 @@ a {
 
 a:hover {
     text-decoration: underline;
+}
+
+#top {
+    font-size: 48px;
+}
+
+img {
+    max-width: 500px;
+}
+
+.info a{
+    color: #000000;
+    font-weight: bold;
+}
+
+
+.caption {
+    font-size: 15px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+
+.question {
+    font-style: italic;
+}
+
+.answer {
+    margin-bottom: 25px;
 }
