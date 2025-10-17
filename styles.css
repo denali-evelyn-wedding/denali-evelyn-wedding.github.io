@@ -73,3 +73,11 @@ img {
 .answer {
     margin-bottom: 25px;
 }
+
+.imgbox {
+    display: flex;
+}
+
+.imgbox img {
+    max-width: 400px;
+}
