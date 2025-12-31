@@ -84,7 +84,8 @@ img {
 
 .answer {
     margin-bottom: 25px;
-    text-align: right;
+    margin-left: 30px;
+    text-align: left;
 }
 
 .imgbox {
